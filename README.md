@@ -1,2 +1,2 @@
-# CV
+# LINUX
 My personal webpage
